@@ -1,13 +1,19 @@
+ADMIN- LOG IN 
+EMAIL: rupali190622@gmail.com
+password: 1234
 
-=-------------------------------------------------------------PLEASE NOTE THAT SQL DATABASE IN IN DATABASE FOLDER--------------------------------------------
----------------------------------------------------IMPORT DATABASE FIRST TO RUN THIS PROJECT------------------------------------------------
+TEAM (ACCESS DENIED):-
+1-Akash Dhiman(Admin)
+2-Shivam Tomar(Front end)
+3-Astha Jain(Frontend)
+4-Rupali(Backend)
+
+PROBLEM STATEMENT:-
+College professors encounter significant challenges when managing their lectures in a systematic and efficient manner.The existing process of taking lectures one by one and searching for specific lectures within a busy timetable has proven to be time-consuming and error-prone.
+
+SOLUTION STATEMENT:-
+Our team had been created a website that will solve this problem.we will add more features in to make it optimize solution.
 
 
------------------------------------------LOG IN WITH ADMIN LOG IN DETAILS AND ADD YOUR FACULTY-----------------------------------------------------------------------------------------------------
+PPT:-
 
------------------------------------------------ADMIN- LOG IN------------------------------------------------------------------ 
-
-----------------------------------------EMAIL: rupali190622@gmail.com------------------------------------------------
-----------------------------------------password: 1234---------------------------------------------------
-
--
